@@ -1,0 +1,21 @@
+# python
+__pycache__/
+*.pyc
+
+# data
+data/
+*.csv
+*.csv.gz
+*.h5ad
+
+# weights / models
+*.pt
+*.pth
+*.pb
+*.ckpt
+*.h5
+*.npz
+
+# conda
+.env
+.venv
