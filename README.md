@@ -9,7 +9,7 @@ This repository provides a reproducible benchmarking pipeline for SANTO on large
 
 SANTO is originally developed and maintained by the authors at:
 
-https://github.com/zhanglabtools/SANTO
+https://github.com/leihouyeung/SANTO
 
 This makes SANTO easier to benchmark against other spatial alignment methods under the same conditions.
 
